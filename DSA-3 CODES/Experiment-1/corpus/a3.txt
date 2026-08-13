@@ -1,0 +1,4 @@
+Data Structures
+
+Data structures are used to organize and store data.
+Arrays, linked lists, stacks and queues are common data structures.

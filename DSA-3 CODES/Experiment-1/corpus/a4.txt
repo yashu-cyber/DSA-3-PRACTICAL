@@ -1,0 +1,4 @@
+Algorithms
+
+Algorithms are step by step procedures used to solve problems.
+Efficient algorithms can reduce the time required to process data.
